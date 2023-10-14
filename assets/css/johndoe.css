@@ -11279,11 +11279,13 @@ p {
   margin-bottom: 30px;
   overflow: hidden;
   margin: 0 15px 30px;
+  
 }
 
 .blog-card .img-holder {
   min-width: 350px;
   max-width: 350px;
+  
 }
 
 .blog-card .img-holder img {
@@ -11291,6 +11293,7 @@ p {
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+  
 }
 
 .blog-card .content-holder {
